@@ -51,9 +51,9 @@ Replace the example above with your real project:
 <p align="center"><strong>You can click here</strong></p>
 
 <p align="center">
-  <img src="./assets/linkedin.svg" alt="LinkedIn">
-  <img src="./assets/telegram.svg" alt="Telegram">
-  <img src="./assets/gmail.svg" alt="Gmail">
+  <a href="https://www.linkedin.com/in/arsen-yelashkin-99b1b228b/"><img src="./assets/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://t.me/arsyuska"><img src="./assets/telegram.svg" alt="Telegram"></a>
+  <a href="mailto:arsyuska@gmail.com"><img src="./assets/gmail.svg" alt="Gmail"></a>
 </p>
 
 <!--
