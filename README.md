@@ -8,7 +8,7 @@
 
 ## Who Am I?
 
-<img src="./assets/dove.gif" align="right" width="145" alt="Animated dove">
+<img src="./assets/dove.gif" align="right" height="200" width="245" alt="Animated dove">
 
 I’m **Arsen Yelashkin**, a full-stack developer focused on **.NET, backend development, and the web**. I build personal projects to learn how an idea becomes a working application.
 
@@ -32,7 +32,7 @@ Working on my own projects has taught me to break problems into smaller pieces a
 
 ## Top Projects
 
-<img src="./assets/angel.jpg" align="right" width="105" alt="Black-and-white angel statue">
+<img src="./assets/angel.jpg" align="right" width="345" height="200" alt="Black-and-white angel statue">
 
 **Your project goes here**
 
