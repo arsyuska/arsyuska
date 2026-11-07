@@ -20,11 +20,15 @@ Working on my own projects has taught me to break problems into smaller pieces a
 
 ## Languages & Tools
 
-<p>
-  <img src="./assets/dotnet.svg" alt=".NET">
-  <img src="./assets/backend.svg" alt="Backend">
-  <img src="./assets/web.svg" alt="Web">
-</p>
+![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-181818?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-181818?style=for-the-badge&logo=astro&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-181818?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-181818?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Top Projects
 
