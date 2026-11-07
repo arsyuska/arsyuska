@@ -8,13 +8,13 @@
 
 ## Who Am I?
 
-<img src="./assets/mascot.png" align="right" width="145" alt="Black-and-white top hat mascot">
+<img src="./assets/dove.gif" align="right" width="145" alt="Animated dove">
 
 I’m **Arsen Yelashkin**, a full-stack developer focused on **.NET, backend development, and the web**. I build personal projects to learn how an idea becomes a working application.
 
 Working on my own projects has taught me to break problems into smaller pieces and improve features as I go. I enjoy figuring out what happens behind the scenes of a web app and finding simpler ways to organize the code.
 
-<!-- Add a specific project or feature you’ve built and what you did on it. -->
+
 
 <br clear="all">
 
@@ -32,16 +32,12 @@ Working on my own projects has taught me to break problems into smaller pieces a
 
 ## Top Projects
 
-<img src="./assets/flame.png" align="right" width="105" alt="Monochrome flame">
+<img src="./assets/angel.jpg" align="right" width="105" alt="Black-and-white angel statue">
 
 **Your project goes here**
 
 Add a short description of what you built, what it does, and the tools you used.
 
-<!--
-Replace the example above with your real project:
-- **[Project name](https://github.com/arsyuska/REPOSITORY)** — What it does and what you built.
--->
 
 <br clear="all">
 
@@ -56,9 +52,3 @@ Replace the example above with your real project:
   <a href="mailto:arsyuska@gmail.com"><img src="./assets/gmail.svg" alt="Gmail"></a>
 </p>
 
-<!--
-When you have your real contact details, replace the three images above with:
-<a href="https://www.linkedin.com/in/YOUR_PROFILE/"><img src="./assets/linkedin.svg" alt="LinkedIn"></a>
-<a href="https://t.me/YOUR_USERNAME"><img src="./assets/telegram.svg" alt="Telegram"></a>
-<a href="mailto:YOUR_EMAIL"><img src="./assets/gmail.svg" alt="Gmail"></a>
--->
